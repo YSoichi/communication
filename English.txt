@@ -1,5 +1,14 @@
-//入りから課題説明//
+//入り//
 Hello everyone. Iwould like to start a qroup pressentation.
+
+//selfintroduce//
+First, let's introduce ourselves.
+
+/*個人の自己紹介*/
+
+--------------------------
+
+//課題内容説明(バックグラウンド1個め)//
 We will give a presentation on 
 "Dose technology intensify human communication skills?"
 
