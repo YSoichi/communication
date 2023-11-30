@@ -2,7 +2,7 @@
 Hello everyone. Iwould like to start a qroup pressentation.
 
 //selfintroduce//
-First, let's introduce ourselves.
+ let's introduce ourselves.
 
 /*個人の自己紹介*/
 
@@ -17,6 +17,13 @@ We will give a presentation on
 In today's rapidly changing society, 
 I decided to focus on this topic because advances in technology
  are impacting human communication.
+
+//このプレゼンがどのような役割を果たすのか(スライドには記載なし)//
+In this presentation, we can learn about the connection between the advancement of technology and communication.
+//このスライドは何分かかるのか//
+Our Presentation will last for about eight minutes.
+
+--------------------------
 
 //5P意見//
 In our opinion, three factors contribute to the improvement
