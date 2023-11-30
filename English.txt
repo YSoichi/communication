@@ -22,24 +22,24 @@ I decided to focus on this topic because advances in technology
 In our opinion, three factors contribute to the improvement
  of communication skills due to technological advancements:
 
-1,The ability to communicate with people who are far away.
-2,Enhanced efficiency in language learning.
-3,The evolution of language translation tools.
+First,The ability to communicate with people who are far away.
+Second,Enhanced efficiency in language learning.
+Third,The evolution of language translation tools.
 
 //6P離れた人とのコミュニケーション//
-The ability to communicate with people
+First,the ability to communicate with people
  who are far away means that in the past,
  the only way for people to communicate was by meeting in person. 
 However, with the widespread adoption of the telephone,
  it became possible to have conversations with people who were far away.
 
 //7P言語翻訳ツール//
-The evolution of language translation tools means that,
+Second, the evolution of language translation tools means that,
  thanks to these tools, communication with people 
 who speak languages I can't speak has become possible.
 
 //8P効率的な学習//
-Regarding the improvement in language learning efficiency, 
+Third, regarding the improvement in language learning efficiency, 
  with the current advancements in technology,
  it is now possible to engage in learning that involves conversations 
  with foreigners through online English lessons and learning materials.
