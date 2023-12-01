@@ -38,7 +38,7 @@ I decided to focus on this topic because advances in technology
 //このプレゼンがどのような役割を果たすのか(スライドには記載なし//
 In this presentation, we can learn about the connection between the advancement of technology and communication.
 //このスライドは何分かかるのか//
-Our Presentation will last for about eight minutes.
+Our Presentation will last for about five minutes.
 
 --------------------------
 
