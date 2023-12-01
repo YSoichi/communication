@@ -5,6 +5,23 @@ Hello everyone. Iwould like to start a qroup pressentation.
  let's introduce ourselves.
 
 /*個人の自己紹介*/
+//森//
+Hello, my name is Daisuke Mori.
+I'm developing a dialogue system using artificial intelligence.
+//柳//
+hello,mynameisdaichiyanagi.I am conducting research on the relationship between rain distance and detection quantity in outdoor autonomous mobile robots.
+//八巻//
+I'm Soichiro Yamaki 
+I belong to the Wang Research Lab.
+I am involved in creating robots for the intelligent Robot Contest, 
+and I am responsible for the hardware division.
+//山下//
+My main interest of research is human following robots.
+I am researching robots that can follow people using only camera images.
+//吉野//
+My name is Yoshino Taiki.
+My main research interest is Autonomous Mobile Robot.
+I am conducting research on the relationship between camera field of view and autonomous navigation.
 
 --------------------------
 
@@ -18,7 +35,7 @@ In today's rapidly changing society,
 I decided to focus on this topic because advances in technology
  are impacting human communication.
 
-//このプレゼンがどのような役割を果たすのか(スライドには記載なし)//
+//このプレゼンがどのような役割を果たすのか(スライドには記載なし//
 In this presentation, we can learn about the connection between the advancement of technology and communication.
 //このスライドは何分かかるのか//
 Our Presentation will last for about eight minutes.
